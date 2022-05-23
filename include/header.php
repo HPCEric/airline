@@ -8,8 +8,8 @@
     <div id="menu">
         <ul>
             <li><a href="index.php">網站首頁</a></li>
-            <li><a href="processitinerary.php">線上訂票</a></li>
-            <li><a href="confirmreservation.php">確認訂票</a></li>
+            <li><a href="?do=processitinerary">線上訂票</a></li>
+            <li><a href="?do=confirmreservation">確認訂票</a></li>
            
         </ul>
     </div>
